@@ -1,7 +1,7 @@
 # python   
 python scripts for manipulation of MEGAlib output  
 
-#Files of note
+# Files of note
 EventViewer.py: Makes event display using output sim files. Currently only works for ComPair, not AMEGO
 
 **EventViewer.py Usage Example**:  
