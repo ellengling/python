@@ -2,7 +2,7 @@
 .csv files with angular resolution, energy resolution, and effective area points for Fermi-LAT, COMPTEL, and AMEGO
 EventAnalysisPlots and FigureOfMeritPlots contain pdf and png plots output by running EventAnalysis and FigureOfMeritPlotter
 
-#Files of note
+# Files of note
 FigureOfMeritPlotter.py: updated file of same name in python directory to include data points for Fermi-LAT, COMPTEL, and ComPair (from .csv files)
 
 **EventViewer.py Usage Example**:
